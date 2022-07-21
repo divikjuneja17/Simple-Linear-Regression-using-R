@@ -3,7 +3,7 @@
 <b> Simple linear regression </b> is a regression model that estimates the relationship between one independent variable and one dependent variable using a straight line. Both variables should be quantitative.
 
 ``` r
-Reading .csv files
+Reading income.data.csv file
 > income.data <- read.csv("~/income.data.csv")
 
 > view(income.data)
